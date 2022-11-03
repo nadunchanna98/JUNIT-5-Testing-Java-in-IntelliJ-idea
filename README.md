@@ -1,5 +1,7 @@
 # JUNIT-5-Testing-Java-in-IntelliJ-Idea
 
+ • Instructions are there in the Pdf file
+ 
  • Create Maven project in IntelliJ idea.
  
  • Go to the POM Xml and add the junit dependency
@@ -13,3 +15,5 @@
  • After that add the junit Jupiter dependency.
  
  • Finally Run the Test class, then Test case Execution Result
+ 
+ 
